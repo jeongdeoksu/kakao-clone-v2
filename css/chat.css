@@ -212,7 +212,7 @@
 
 .sent-message .message__bubble::after {
   border-top: 2px solid transparent;
-  border-left: 30px solid yellow;
+  border-left: 30px solid #ffeb33;
   border-right: 5px solid transparent;
   border-bottom: 20px solid transparent;
   content: "";
