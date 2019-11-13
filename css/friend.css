@@ -83,3 +83,7 @@
   opacity: 0.6;
   margin-bottom: 12px;
 }
+
+.friends__list .friends__friend {
+  margin-bottom: 25px;
+}
