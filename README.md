@@ -10,3 +10,6 @@ Zoom 회의 참가
 https://us04web.zoom.us/j/78536674919?pwd=TWJxVElsYXV4MTY3QnhselpXV3ZKdz09
 
 회의 ID: 785 3667 4919
+
+
+https://github.com/jeongdeoksu/kakao-clone-v2/blob/master/README.md
