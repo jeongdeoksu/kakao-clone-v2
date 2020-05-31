@@ -13,3 +13,5 @@ https://us04web.zoom.us/j/78536674919?pwd=TWJxVElsYXV4MTY3QnhselpXV3ZKdz09
 
 
 https://github.com/jeongdeoksu/kakao-clone-v2/blob/master/README.md
+
+https://www.ealimi.com/ReceivedNoti/LetterReplyNew/678744475/a4da5299-62a1-ea11-80c2-08f1eaf762eb
